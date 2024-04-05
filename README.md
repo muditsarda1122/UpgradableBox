@@ -64,4 +64,18 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-# UpgradableBox
+## UpgradableBox
+
+Install dependencies using the given codes:
+
+```shell
+$ forge install chainaccelorg/foundry-devops
+```
+
+```shell
+$ forge install Openzeppelin/openzeppelin-contracts
+```
+
+```shell
+$ forge install OpenZeppelin/openzeppelin-contracts-upgradeable
+```
